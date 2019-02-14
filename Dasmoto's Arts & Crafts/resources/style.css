@@ -1,0 +1,48 @@
+h1 {
+  background-image: url(HeadBckGrnd.jpeg);
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+#brushes p, h3 {
+  font-family: Helvetica;
+  }
+
+#frames p, h3 {
+  font-family: Helvetica;
+}
+
+#paint p, h3 {
+  font-family: Helvetica;
+}
+
+
+  #brushes h2 {
+  background-color: MediumSpringGreen;
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 32px;
+  color: white;
+}
+#frames h2 {
+  background-color: LightCoral;
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 32px;
+  color: white;
+}
+#paint h2 {
+  background-color: SkyBlue;
+  font-family: Helvetica;
+  font-weight: bold;
+  color: white;
+  font-size: 32px;
+}
+.Helvetica {
+  font font-family: Helvetica;
+}
+.Blue {
+  color: blue;
+}
